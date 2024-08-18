@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: INTER;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-around;
+    background: #FFCD9E;
+    height: 70%;
+    
+    
+}
+.footer
+{
+    background: #282828;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.30vh;
+}
+.left-list
+{
+    list-style: none;
+    padding: 5vh;
+  
+}
+.left-list li
+{
+    padding: 1vh;
+    padding-right: 40vh;
+  
+}
+.right-list
+{
+    list-style: none;
+    padding: 5vh;
+    list-style: none;
+    text-align: right;
+}
+.right-list li
+{
+    padding: 1vh;
+
+}
+
+.left-header
+{
+    padding-left: 7vh;
+    
+}
+
+.up-left h1
+{
+    padding-top: 8vh;
+    
+    font-size: 6vh;
+  
+}
+.up-left p
+{
+    padding-top: 4vh;
+}
+.down-left p
+{
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    font-weight: bolder;
+}
+
+.inputs
+{
+    padding-top: 2vh;
+    padding-bottom: 3vh;
+   
+   
+}
+
+.inputs button
+{
+
+    padding:2vh;
+    width: 25vh;
+    border-radius: 1vh;
+    background: #282828;
+    color: azure;
+   
+
+}
+
+.inputs button:hover
+{
+    background: #363535;
+}
+.email
+{
+    padding:2vh;
+    width: 50vh;
+    border-radius: 1vh;
+    border-width: 0.5vh;
+
+}
+
+.down-left h5
+{
+    padding-left: 7vh;
+    color: white;
+
+}
+
+.right-header img
+{
+    height: 65vh;
+}
